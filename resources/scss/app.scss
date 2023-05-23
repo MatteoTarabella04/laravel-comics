@@ -1,7 +1,12 @@
 @import '~bootstrap/scss/bootstrap';
 
 @import './partials/header';
+@import './partials/jumbotron';
 
 a {
    text-decoration: none;
+}
+
+img {
+   max-width: 100%;
 }
